@@ -1,2 +1,3 @@
 red is the first color in the rainbow
 Orange is the second color of the rainbow
+Yellow is the thirt color of the rainbow
